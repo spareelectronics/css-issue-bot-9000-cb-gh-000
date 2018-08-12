@@ -1,10 +1,10 @@
 body {
-  background #FFC0CB;
+  color: #FFC0CB;
 }
 
 h1 {
   color: blue;
-  fontsize: 3em; 
+  fontsize: 3em;
 }
 
 h2 {
